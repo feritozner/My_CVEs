@@ -1,11 +1,11 @@
 # My CVE Discoveries
-
-
-
 - This repository contains CVEs that I personally discovered and reported.  
 - Each CVE has its own directory, including technical details and (when allowed) proof-of-concept material.
 
-
+## CVE Vulnerability Topics
+- CVE-2025-10161 >> Authentication Bypass
+- CVE-2025-14343 >> XSS (Cross-Site Scripting) 
+- CVE-2026-2347  >> Account Takeover (PoC is Coming Soon...)
 
 ## Disclaimer
 
