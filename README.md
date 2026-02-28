@@ -3,9 +3,11 @@
 - Each CVE has its own directory, including technical details and (when allowed) proof-of-concept material.
 
 ## CVE Vulnerability Topics
-- CVE-2025-10161 >> Authentication Bypass
-- CVE-2025-14343 >> XSS (Cross-Site Scripting) 
-- CVE-2026-2347  >> Account Takeover (PoC is Coming Soon...)
+| CVE ID | Vulnerability | CVSS Score | Severity |
+|--------|--------------|------------|----------|
+| CVE-2025-10161 | Authentication Bypass | 7.3 | High |
+| CVE-2025-14343 | Reflected XSS | 7.6 | High |
+| CVE-2026-2347 | Account Takeover | TBD | Pending |
 
 ## Disclaimer
 
