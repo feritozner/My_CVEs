@@ -8,6 +8,7 @@
 | CVE-2025-10161 | Authentication Bypass | 7.3 | High |
 | CVE-2025-14343 | Reflected XSS | 7.6 | High |
 | CVE-2026-2347 | Account Takeover | TBD | Pending |
+| CVE-2026-3953 | Reflected XSS | TBD | Pending |
 
 ## Disclaimer
 
