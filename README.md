@@ -12,7 +12,7 @@
 | CVE-2026-5800 | Reflected XSS | TBD | Pending |
 | CVE-2026-5955 | SQL Injection | TBD | Pending |
 | CVE-2026-5792 | Authentication Bypass | TBD | Pending |
-
+| CVE-2026-5793 | Reflected XSS | TBD | Pending |
 
 ## Disclaimer
 
