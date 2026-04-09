@@ -10,6 +10,9 @@
 | CVE-2026-2347 | Account Takeover | TBD | Pending |
 | CVE-2026-3953 | Reflected XSS | TBD | Pending |
 | CVE-2026-5800 | Reflected XSS | TBD | Pending |
+| CVE-2026-5955 | SQL Injection | TBD | Pending |
+| CVE-2026-5792 | Authentication Bypass | TBD | Pending |
+
 
 ## Disclaimer
 
